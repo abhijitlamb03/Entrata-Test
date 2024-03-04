@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T21:31:20Z" name="Suite" finished-at="2024-03-03T21:33:22Z" duration-ms="122087">
+    <groups>
+    </groups>
+    <test started-at="2024-03-03T21:31:20Z" name="Test" finished-at="2024-03-03T21:33:22Z" duration-ms="122087">
+      <class name="com.test.TestNavigation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestNavigation@3c9d0b9d]" started-at="2024-03-03T21:32:58Z" name="setUp" finished-at="2024-03-03T21:33:00Z" duration-ms="1874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomePage()[pri:0, instance:com.test.TestNavigation@3c9d0b9d]" started-at="2024-03-03T21:33:00Z" name="testHomePage" finished-at="2024-03-03T21:33:22Z" duration-ms="22082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method is-config="true" signature="clode1()[pri:0, instance:com.test.TestNavigation@3c9d0b9d]" started-at="2024-03-03T21:33:22Z" name="clode1" finished-at="2024-03-03T21:33:22Z" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clode1 -->
+      </class> <!-- com.test.TestNavigation -->
+      <class name="com.test.FormValidation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.FormValidation@318ba8c8]" started-at="2024-03-03T21:31:20Z" name="setUp" finished-at="2024-03-03T21:31:23Z" duration-ms="3309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testContactForm()[pri:0, instance:com.test.FormValidation@318ba8c8]" started-at="2024-03-03T21:31:23Z" name="testContactForm" finished-at="2024-03-03T21:32:06Z" duration-ms="42218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactForm -->
+        <test-method is-config="true" signature="close2()[pri:0, instance:com.test.FormValidation@318ba8c8]" started-at="2024-03-03T21:32:06Z" name="close2" finished-at="2024-03-03T21:32:06Z" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close2 -->
+      </class> <!-- com.test.FormValidation -->
+      <class name="com.test.DynamicTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.DynamicTest@6dbb137d]" started-at="2024-03-03T21:32:06Z" name="setUp" finished-at="2024-03-03T21:32:09Z" duration-ms="2443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDynamicContent()[pri:0, instance:com.test.DynamicTest@6dbb137d]" started-at="2024-03-03T21:32:09Z" name="testDynamicContent" finished-at="2024-03-03T21:32:58Z" duration-ms="49165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicContent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.DynamicTest@6dbb137d]" started-at="2024-03-03T21:32:58Z" name="tearDown" finished-at="2024-03-03T21:32:58Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.DynamicTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
